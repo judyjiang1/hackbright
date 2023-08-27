@@ -1,0 +1,10 @@
+secrets.sh
+*.DS_Store
+.DS_Store
+.prettierignore
+__pycache__/
+week1-5
+week6-10
+week11-15
+week16-20
+week21-26
